@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Recommender</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+    <h1>Restaurant Recommender</h1>
+
+    <form id="restaurantForm">
+        <label for="latitude">Latitude:</label>
+        <input type="text" id="latitude" name="latitude" required>
+        
+        <label for="longitude">Longitude:</label>
+        <input type="text" id="longitude" name="longitude" required>
+        
+        <label for="radius">Radius (in meters):</label>
+        <input type="text" id="radius" name="radius" value="1000">
+
+        <button type="submit">Get Restaurants</button>
+    </form>
+
+    <h2>Recommended Restaurants:</h2>
+    <ul id="restaurantList"></ul>
+
+    <script>
+        // jQuery to handle form submission and display restaurant data
+        $('#restaurantForm').on('submit', function(event) {
+            event.preventDefault();
+
+            // Get the form data
+            const latitude = $('#latitude').val();
+            const longitude = $('#longitude').val();
+            const radius = $('#radius').val();
+
+            // Send AJAX request to Flask backend
+            $.post('/get_restaurants', {latitude, longitude, radius}, function(response) {
+                if (response.status === 'success') {
+                    const restaurants = response.data;
+                    let listHtml = '';
+
+                    restaurants.forEach(function(restaurant) {
+                        const name = restaurant.name;
+                        const rating = restaurant.rating || 'N/A';
+                        const address = restaurant.vicinity || 'N/A';
+
+                        listHtml += `<li>${name} - Rating: ${rating} - Address: ${address}</li>`;
+                    });
+
+                    // Display the list of restaurants
+                    $('#restaurantList').html(listHtml);
+                } else {
+                    alert(response.message);
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>
