@@ -1,0 +1,1015 @@
+name,rating,lat,lng,vicinity,price_level,types,user_ratings_total
+Jersey Mike's Subs,4.4,38.01034669999999,-78.4987987,"265 Merchant Walk Avenue Suite 1004, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, store, establishment",683
+Panera Bread,3.7,38.0114091,-78.49838679999999,"405 Merchant Walk Square Bldg 1800, Charlottesville",2,"cafe, bakery, meal_takeaway, restaurant, food, point_of_interest, store, establishment",453
+Timberwood Tap House,4.2,38.010356,-78.4997365,"245 Merchant Walk Avenue Unit 100, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1359
+Alamo Drafthouse Cinema Charlottesville,4.5,38.0119188,-78.4994946,"375 Merchant Walk Square, Charlottesville",N/A,"movie_theater, bar, restaurant, food, point_of_interest, establishment",2317
+Subway,3.8,38.012863,-78.50342119999999,"1141 5th Street Ext, Unit 1141, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",86
+Domino's Pizza,3.7,38.0127715,-78.50352699999999,"1147 5th Street Southwest, Charlottesville",1,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",261
+Jade Garden,3.6,38.01297359999999,-78.503222,"1139 5th Street Southwest, Charlottesville",1,"restaurant, food, point_of_interest, establishment",133
+Wooden Sun,4.4,38.0184558,-78.4866472,"1524 Rosa Terrace, Charlottesville",N/A,"home_goods_store, restaurant, food, point_of_interest, store, establishment",41
+The Market at Mill Creek,4.7,38.000067,-78.497748,"1345 Parham Circle, Charlottesville",1,"convenience_store, gas_station, restaurant, food, point_of_interest, store, establishment",411
+Taco Bell,3.4,38.0114933,-78.50268539999999,"1158 5th Street Southwest, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",812
+Burger King,3,38.0112129,-78.50493999999999,"1181 5th Street Southwest, Charlottesville",1,"restaurant, food, point_of_interest, establishment",635
+Krispy Kreme,3.9,38.01045209999999,-78.4976451,"295 Merchant Walk Avenue, Charlottesville",1,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",647
+Al Carbon,4.4,38.01034669999999,-78.4995266,"245 Merchant Walk Avenue Suite 200, Charlottesville",2,"restaurant, food, point_of_interest, establishment",211
+Kanak Indian Kitchen,4.6,38.0117177,-78.4988716,"385 Merchant Walk Square Suite 400, Charlottesville",2,"restaurant, meal_delivery, meal_takeaway, food, point_of_interest, establishment",555
+BurgerFi,3.3,38.0116705,-78.4991905,"385 Merchant Walk Square, Charlottesville",2,"meal_takeaway, restaurant, food, point_of_interest, establishment",182
+Harold’s Chicken,3.5,38.0117222,-78.4992517,"385 Merchant Walk Square, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",8
+Wing Zone,3.5,38.01175009999999,-78.4994059,"385 Merchant Walk Square, Charlottesville",2,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",120
+Cold Stone Creamery,3.8,38.0117106,-78.4997204,"365 Merchant Walk Square Building 1400, STE 600, Charlottesville",2,"bakery, restaurant, food, point_of_interest, store, establishment",19
+Chimm - Thai & Southeast Asian Restaurant,4.4,38.0117103,-78.49992759999999,"365 Merchant Walk Square, Charlottesville",2,"restaurant, food, point_of_interest, establishment",313
+Glass Half Full Taproom,4.5,38.0120269,-78.4995089,"375 Merchant Walk Square, Charlottesville",N/A,"bar, restaurant, food, point_of_interest, establishment",41
+Panera Bread,3.7,38.0114091,-78.49838679999999,"405 Merchant Walk Square Bldg 1800, Charlottesville",2,"cafe, bakery, meal_takeaway, restaurant, food, point_of_interest, store, establishment",453
+Jersey Mike's Subs,4.4,38.01034669999999,-78.4987987,"265 Merchant Walk Avenue Suite 1004, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, store, establishment",683
+Timberwood Tap House,4.2,38.010356,-78.4997365,"245 Merchant Walk Avenue Unit 100, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1359
+Alamo Drafthouse Cinema Charlottesville,4.5,38.0119188,-78.4994946,"375 Merchant Walk Square, Charlottesville",N/A,"movie_theater, bar, restaurant, food, point_of_interest, establishment",2317
+Subway,3.8,38.012863,-78.50342119999999,"1141 5th Street Ext, Unit 1141, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",86
+Domino's Pizza,3.7,38.0127715,-78.50352699999999,"1147 5th Street Southwest, Charlottesville",1,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",261
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1081
+Jade Garden,3.6,38.01297359999999,-78.503222,"1139 5th Street Southwest, Charlottesville",1,"restaurant, food, point_of_interest, establishment",133
+Wooden Sun,4.4,38.0184558,-78.4866472,"1524 Rosa Terrace, Charlottesville",N/A,"home_goods_store, restaurant, food, point_of_interest, store, establishment",41
+The Market at Mill Creek,4.7,38.000067,-78.497748,"1345 Parham Circle, Charlottesville",1,"convenience_store, gas_station, restaurant, food, point_of_interest, store, establishment",411
+Brazos Tacos,4.4,38.02475929999999,-78.4829253,"925 2nd Street Southeast, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1036
+Taco Bell,3.4,38.0114933,-78.50268539999999,"1158 5th Street Southwest, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",812
+Burger King,3,38.0112129,-78.50493999999999,"1181 5th Street Southwest, Charlottesville",1,"restaurant, food, point_of_interest, establishment",635
+Krispy Kreme,3.9,38.01045209999999,-78.4976451,"295 Merchant Walk Avenue, Charlottesville",1,"bakery, cafe, restaurant, food, point_of_interest, store, establishment",647
+Kanak Indian Kitchen,4.6,38.0117177,-78.4988716,"385 Merchant Walk Square Suite 400, Charlottesville",2,"restaurant, meal_delivery, meal_takeaway, food, point_of_interest, establishment",555
+Al Carbon,4.4,38.01034669999999,-78.4995266,"245 Merchant Walk Avenue Suite 200, Charlottesville",2,"restaurant, food, point_of_interest, establishment",211
+BurgerFi,3.3,38.0116705,-78.4991905,"385 Merchant Walk Square, Charlottesville",2,"meal_takeaway, restaurant, food, point_of_interest, establishment",182
+Harold’s Chicken,3.5,38.0117222,-78.4992517,"385 Merchant Walk Square, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",8
+Wing Zone,3.5,38.01175009999999,-78.4994059,"385 Merchant Walk Square, Charlottesville",2,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",120
+Glass Half Full Taproom,4.5,38.0120269,-78.4995089,"375 Merchant Walk Square, Charlottesville",N/A,"bar, restaurant, food, point_of_interest, establishment",41
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1081
+Panera Bread,3.7,38.0114091,-78.49838679999999,"405 Merchant Walk Square Bldg 1800, Charlottesville",2,"cafe, meal_takeaway, bakery, restaurant, food, store, point_of_interest, establishment",453
+Jersey Mike's Subs,4.4,38.01034669999999,-78.4987987,"265 Merchant Walk Avenue Suite 1004, Charlottesville",1,"meal_takeaway, restaurant, food, store, point_of_interest, establishment",683
+Timberwood Tap House,4.2,38.010356,-78.4997365,"245 Merchant Walk Avenue Unit 100, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1359
+Alamo Drafthouse Cinema Charlottesville,4.5,38.0119188,-78.4994946,"375 Merchant Walk Square, Charlottesville",N/A,"movie_theater, bar, restaurant, food, point_of_interest, establishment",2317
+Subway,3.8,38.012863,-78.50342119999999,"1141 5th Street Ext, Unit 1141, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",86
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, food, store, point_of_interest, establishment",607
+Domino's Pizza,3.7,38.0127715,-78.50352699999999,"1147 5th Street Southwest, Charlottesville",1,"meal_takeaway, meal_delivery, restaurant, food, point_of_interest, establishment",261
+Wooden Sun,4.4,38.0184558,-78.4866472,"1524 Rosa Terrace, Charlottesville",N/A,"home_goods_store, restaurant, food, store, point_of_interest, establishment",41
+Brazos Tacos,4.4,38.02475929999999,-78.4829253,"925 2nd Street Southeast, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1036
+Jade Garden,3.6,38.01297359999999,-78.503222,"1139 5th Street Southwest, Charlottesville",1,"restaurant, food, point_of_interest, establishment",133
+The Market at Mill Creek,4.7,38.000067,-78.497748,"1345 Parham Circle, Charlottesville",1,"gas_station, convenience_store, restaurant, food, store, point_of_interest, establishment",411
+Taco Bell,3.4,38.0114933,-78.50268539999999,"1158 5th Street Southwest, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",812
+Southern Crescent Galley and Bar,4.3,38.0246928,-78.4759035,"814 Hinton Avenue, Charlottesville",2,"restaurant, food, point_of_interest, establishment",150
+Burger King,3,38.0112129,-78.50493999999999,"1181 5th Street Southwest, Charlottesville",1,"restaurant, food, point_of_interest, establishment",635
+Krispy Kreme,3.9,38.01045209999999,-78.4976451,"295 Merchant Walk Avenue, Charlottesville",1,"cafe, bakery, restaurant, food, store, point_of_interest, establishment",647
+Kanak Indian Kitchen,4.6,38.0117177,-78.4988716,"385 Merchant Walk Square Suite 400, Charlottesville",2,"restaurant, meal_takeaway, meal_delivery, food, point_of_interest, establishment",555
+BurgerFi,3.3,38.0116705,-78.4991905,"385 Merchant Walk Square, Charlottesville",2,"meal_takeaway, restaurant, food, point_of_interest, establishment",182
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, store, food, point_of_interest, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, store, restaurant, food, point_of_interest, establishment",607
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1081
+Panera Bread,3.7,38.0114091,-78.49838679999999,"405 Merchant Walk Square Bldg 1800, Charlottesville",2,"cafe, meal_takeaway, bakery, store, restaurant, food, point_of_interest, establishment",453
+Jersey Mike's Subs,4.4,38.01034669999999,-78.4987987,"265 Merchant Walk Avenue Suite 1004, Charlottesville",1,"meal_takeaway, store, restaurant, food, point_of_interest, establishment",683
+Timberwood Tap House,4.2,38.010356,-78.4997365,"245 Merchant Walk Avenue Unit 100, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1359
+Alamo Drafthouse Cinema Charlottesville,4.5,38.0119188,-78.4994946,"375 Merchant Walk Square, Charlottesville",N/A,"movie_theater, bar, restaurant, food, point_of_interest, establishment",2317
+Brazos Tacos,4.4,38.02475929999999,-78.4829253,"925 2nd Street Southeast, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1036
+Wooden Sun,4.4,38.0184558,-78.4866472,"1524 Rosa Terrace, Charlottesville",N/A,"home_goods_store, store, restaurant, food, point_of_interest, establishment",41
+Southern Crescent Galley and Bar,4.3,38.0246928,-78.4759035,"814 Hinton Avenue, Charlottesville",2,"restaurant, food, point_of_interest, establishment",150
+Cactus Mexican Restaurant,4.2,38.0229822,-78.47019399999999,"221 Carlton Road, Charlottesville",2,"restaurant, food, point_of_interest, establishment",298
+The Market at Mill Creek,4.7,38.000067,-78.497748,"1345 Parham Circle, Charlottesville",1,"gas_station, convenience_store, store, restaurant, food, point_of_interest, establishment",411
+Subway,3.8,38.012863,-78.50342119999999,"1141 5th Street Ext, Unit 1141, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",86
+Domino's Pizza,3.7,38.0127715,-78.50352699999999,"1147 5th Street Southwest, Charlottesville",1,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",261
+Jade Garden,3.6,38.01297359999999,-78.503222,"1139 5th Street Southwest, Charlottesville",1,"restaurant, food, point_of_interest, establishment",133
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, point_of_interest, store, food, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",759
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, point_of_interest, food, establishment",603
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, point_of_interest, store, food, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, point_of_interest, food, establishment",371
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, point_of_interest, store, food, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, point_of_interest, food, establishment",368
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, point_of_interest, food, establishment",127
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, point_of_interest, store, food, establishment",607
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, point_of_interest, food, establishment",1081
+Cactus Mexican Restaurant,4.2,38.0229822,-78.47019399999999,"221 Carlton Road, Charlottesville",2,"restaurant, point_of_interest, food, establishment",298
+Southern Crescent Galley and Bar,4.3,38.0246928,-78.4759035,"814 Hinton Avenue, Charlottesville",2,"restaurant, point_of_interest, food, establishment",150
+Wooden Sun,4.4,38.0184558,-78.4866472,"1524 Rosa Terrace, Charlottesville",N/A,"home_goods_store, restaurant, point_of_interest, store, food, establishment",41
+Brazos Tacos,4.4,38.02475929999999,-78.4829253,"925 2nd Street Southeast, Charlottesville",1,"restaurant, point_of_interest, food, establishment",1036
+Panera Bread,3.7,38.0114091,-78.49838679999999,"405 Merchant Walk Square Bldg 1800, Charlottesville",2,"cafe, meal_takeaway, bakery, restaurant, point_of_interest, store, food, establishment",453
+Jersey Mike's Subs,4.4,38.01034669999999,-78.4987987,"265 Merchant Walk Avenue Suite 1004, Charlottesville",1,"meal_takeaway, restaurant, point_of_interest, store, food, establishment",683
+Canelo's Burritos,N/A,38.0216998,-78.4701927,"308B Carlton Road, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",N/A
+Spencer party,N/A,38.0244641,-78.4755275,"824 Hinton Avenue, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",N/A
+Mockingbird,4.6,38.0245712,-78.47495049999999,"421 Monticello Road, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",132
+CONMOLE,4.7,38.024679,-78.4757654,"816 Hinton Avenue, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",159
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, store, food, point_of_interest, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, store, food, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, store, food, point_of_interest, establishment",607
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1081
+Cactus Mexican Restaurant,4.2,38.0229822,-78.47019399999999,"221 Carlton Road, Charlottesville",2,"restaurant, food, point_of_interest, establishment",298
+Southern Crescent Galley and Bar,4.3,38.0246928,-78.4759035,"814 Hinton Avenue, Charlottesville",2,"restaurant, food, point_of_interest, establishment",150
+Wooden Sun,4.4,38.0184558,-78.4866472,"1524 Rosa Terrace, Charlottesville",N/A,"home_goods_store, restaurant, store, food, point_of_interest, establishment",41
+FIREFLY Restaurant + Game Room,4.4,38.0259711,-78.4672162,"1304 East Market Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",842
+Brazos Tacos,4.4,38.02475929999999,-78.4829253,"925 2nd Street Southeast, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1036
+Canelo's Burritos,N/A,38.0216998,-78.4701927,"308B Carlton Road, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",N/A
+Monticello Café,4,38.00572029999999,-78.4518507,"1050 Monticello Loop, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",380
+Spencer party,N/A,38.0244641,-78.4755275,"824 Hinton Avenue, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",N/A
+Mockingbird,4.6,38.0245712,-78.47495049999999,"421 Monticello Road, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",132
+CONMOLE,4.7,38.024679,-78.4757654,"816 Hinton Avenue, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",159
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, point_of_interest, store, food, establishment",3245
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, point_of_interest, store, food, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, point_of_interest, food, establishment",371
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",759
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, point_of_interest, store, food, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, point_of_interest, food, establishment",368
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, point_of_interest, food, establishment",603
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, point_of_interest, food, establishment",127
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, point_of_interest, store, food, establishment",607
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, point_of_interest, food, establishment",1081
+Cactus Mexican Restaurant,4.2,38.0229822,-78.47019399999999,"221 Carlton Road, Charlottesville",2,"restaurant, point_of_interest, food, establishment",298
+FIREFLY Restaurant + Game Room,4.4,38.0259711,-78.4672162,"1304 East Market Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",842
+Southern Crescent Galley and Bar,4.3,38.0246928,-78.4759035,"814 Hinton Avenue, Charlottesville",2,"restaurant, point_of_interest, food, establishment",150
+Monticello Café,4,38.00572029999999,-78.4518507,"1050 Monticello Loop, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",380
+Canelo's Burritos,N/A,38.0216998,-78.4701927,"308B Carlton Road, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",N/A
+Broadcloth,4.8,38.0198172,-78.45564739999999,"1837 Broadway Street, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",93
+Mockingbird,4.6,38.0245712,-78.47495049999999,"421 Monticello Road, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",132
+Spencer party,N/A,38.0244641,-78.4755275,"824 Hinton Avenue, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",N/A
+CONMOLE,4.7,38.024679,-78.4757654,"816 Hinton Avenue, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",159
+Belle,4.6,38.0248883,-78.4752932,"407 Monticello Road, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",228
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, food, point_of_interest, store, establishment",3245
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, food, point_of_interest, establishment",371
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1081
+Cactus Mexican Restaurant,4.2,38.0229822,-78.47019399999999,"221 Carlton Road, Charlottesville",2,"restaurant, food, point_of_interest, establishment",298
+FIREFLY Restaurant + Game Room,4.4,38.0259711,-78.4672162,"1304 East Market Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",842
+Monticello Café,4,38.00572029999999,-78.4518507,"1050 Monticello Loop, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",380
+Broadcloth,4.8,38.0198172,-78.45564739999999,"1837 Broadway Street, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",93
+Canelo's Burritos,N/A,38.0216998,-78.4701927,"308B Carlton Road, Charlottesville",N/A,"restaurant, food, point_of_interest, establishment",N/A
+Holly's Diner,4.6,38.02667739999999,-78.46761649999999,"1221 East Market Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",370
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",594
+Panera Bread,3.7,38.0114091,-78.49838679999999,"405 Merchant Walk Square Bldg 1800, Charlottesville",2,"cafe, bakery, meal_takeaway, store, restaurant, point_of_interest, food, establishment",453
+Alamo Drafthouse Cinema Charlottesville,4.5,38.0119188,-78.4994946,"375 Merchant Walk Square, Charlottesville",N/A,"movie_theater, bar, restaurant, point_of_interest, food, establishment",2317
+Jersey Mike's Subs,4.4,38.01034669999999,-78.4987987,"265 Merchant Walk Avenue Suite 1004, Charlottesville",1,"meal_takeaway, store, restaurant, point_of_interest, food, establishment",683
+Timberwood Tap House,4.2,38.010356,-78.4997365,"245 Merchant Walk Avenue Unit 100, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1359
+Subway,3.8,38.012863,-78.50342119999999,"1141 5th Street Ext, Unit 1141, Charlottesville",1,"meal_takeaway, restaurant, point_of_interest, food, establishment",86
+Domino's Pizza,3.7,38.0127715,-78.50352699999999,"1147 5th Street Southwest, Charlottesville",1,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",261
+Blue Moon Diner,4.5,38.0308887,-78.4883571,"606 West Main Street, Charlottesville",1,"bar, meal_takeaway, restaurant, point_of_interest, food, establishment",474
+Brazos Tacos,4.4,38.02475929999999,-78.4829253,"925 2nd Street Southeast, Charlottesville",1,"restaurant, point_of_interest, food, establishment",1036
+Jade Garden,3.6,38.01297359999999,-78.503222,"1139 5th Street Southwest, Charlottesville",1,"restaurant, point_of_interest, food, establishment",133
+Wooden Sun,4.4,38.0184558,-78.4866472,"1524 Rosa Terrace, Charlottesville",N/A,"home_goods_store, store, restaurant, point_of_interest, food, establishment",41
+The Market at Mill Creek,4.7,38.000067,-78.497748,"1345 Parham Circle, Charlottesville",1,"convenience_store, gas_station, store, restaurant, point_of_interest, food, establishment",411
+Taco Bell,3.4,38.0114933,-78.50268539999999,"1158 5th Street Southwest, Charlottesville",1,"meal_takeaway, restaurant, point_of_interest, food, establishment",812
+Burger King,3,38.0112129,-78.50493999999999,"1181 5th Street Southwest, Charlottesville",1,"restaurant, point_of_interest, food, establishment",635
+Jefferson Ale House,4.2,38.03198769999999,-78.4927361,"852 West Main Street #110, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",273
+Kanak Indian Kitchen,4.6,38.0117177,-78.4988716,"385 Merchant Walk Square Suite 400, Charlottesville",2,"restaurant, meal_delivery, meal_takeaway, point_of_interest, food, establishment",555
+Glass Half Full Taproom,4.5,38.0120269,-78.4995089,"375 Merchant Walk Square, Charlottesville",N/A,"bar, restaurant, point_of_interest, food, establishment",41
+Harold’s Chicken,3.5,38.0117222,-78.4992517,"385 Merchant Walk Square, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",8
+BurgerFi,3.3,38.0116705,-78.4991905,"385 Merchant Walk Square, Charlottesville",2,"meal_takeaway, restaurant, point_of_interest, food, establishment",182
+Wing Zone,3.5,38.01175009999999,-78.4994059,"385 Merchant Walk Square, Charlottesville",2,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",120
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, food, store, point_of_interest, establishment",607
+Blue Moon Diner,4.5,38.0308887,-78.4883571,"606 West Main Street, Charlottesville",1,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",474
+Maya,4.6,38.03153369999999,-78.4895533,"633 West Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",668
+Panera Bread,3.7,38.0114091,-78.49838679999999,"405 Merchant Walk Square Bldg 1800, Charlottesville",2,"cafe, meal_takeaway, bakery, restaurant, food, store, point_of_interest, establishment",453
+Alamo Drafthouse Cinema Charlottesville,4.5,38.0119188,-78.4994946,"375 Merchant Walk Square, Charlottesville",N/A,"movie_theater, bar, restaurant, food, point_of_interest, establishment",2317
+Jersey Mike's Subs,4.4,38.01034669999999,-78.4987987,"265 Merchant Walk Avenue Suite 1004, Charlottesville",1,"meal_takeaway, restaurant, food, store, point_of_interest, establishment",683
+Timberwood Tap House,4.2,38.010356,-78.4997365,"245 Merchant Walk Avenue Unit 100, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1359
+Subway,3.8,38.012863,-78.50342119999999,"1141 5th Street Ext, Unit 1141, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",86
+Brazos Tacos,4.4,38.02475929999999,-78.4829253,"925 2nd Street Southeast, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1036
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1081
+Domino's Pizza,3.7,38.0127715,-78.50352699999999,"1147 5th Street Southwest, Charlottesville",1,"meal_takeaway, meal_delivery, restaurant, food, point_of_interest, establishment",261
+Jade Garden,3.6,38.01297359999999,-78.503222,"1139 5th Street Southwest, Charlottesville",1,"restaurant, food, point_of_interest, establishment",133
+Wooden Sun,4.4,38.0184558,-78.4866472,"1524 Rosa Terrace, Charlottesville",N/A,"home_goods_store, restaurant, food, store, point_of_interest, establishment",41
+Southern Crescent Galley and Bar,4.3,38.0246928,-78.4759035,"814 Hinton Avenue, Charlottesville",2,"restaurant, food, point_of_interest, establishment",150
+Sultan Kebab,4.5,38.0285052,-78.4813144,"333 2nd Street Southeast Suite 205, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1149
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, store, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, store, point_of_interest, establishment",1199
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, food, store, point_of_interest, establishment",607
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, bar, night_club, food, point_of_interest, establishment",657
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, food, point_of_interest, store, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, food, point_of_interest, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, food, point_of_interest, store, establishment",607
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, store, food, point_of_interest, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, store, food, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, store, food, point_of_interest, establishment",607
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Twisted Branch Tea Bazaar,4.6,38.0296779,-78.47900299999999,"414 East Main Street, Charlottesville",2,"cafe, restaurant, food, point_of_interest, establishment",354
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, food, store, point_of_interest, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, store, point_of_interest, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, store, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, food, store, point_of_interest, establishment",607
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Twisted Branch Tea Bazaar,4.6,38.0296779,-78.47900299999999,"414 East Main Street, Charlottesville",2,"cafe, restaurant, food, point_of_interest, establishment",354
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, bar, night_club, food, point_of_interest, establishment",657
+Tastings of Charlottesville,4.5,38.0304029,-78.4780814,"502 East Market Street, Charlottesville",N/A,"liquor_store, bar, restaurant, food, store, point_of_interest, establishment",44
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+Sal's Caffe Italia,4.2,38.03048439999999,-78.4801798,"221 East Main Street, Charlottesville",2,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",345
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, liquor_store, tourist_attraction, bar, store, point_of_interest, food, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, point_of_interest, food, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, point_of_interest, food, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, point_of_interest, food, establishment",603
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, point_of_interest, food, establishment",368
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",611
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, point_of_interest, food, establishment",127
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",676
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, store, restaurant, point_of_interest, food, establishment",607
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, point_of_interest, food, establishment",1081
+Cactus Mexican Restaurant,4.2,38.0229822,-78.47019399999999,"221 Carlton Road, Charlottesville",2,"restaurant, point_of_interest, food, establishment",298
+FIREFLY Restaurant + Game Room,4.4,38.0259711,-78.4672162,"1304 East Market Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",842
+Southern Crescent Galley and Bar,4.3,38.0246928,-78.4759035,"814 Hinton Avenue, Charlottesville",2,"restaurant, point_of_interest, food, establishment",150
+Lampo Neapolitan Pizzeria,4.7,38.02737069999999,-78.4768594,"205 Monticello Road, Charlottesville",2,"restaurant, point_of_interest, food, establishment",856
+Brazos Tacos,4.4,38.02475929999999,-78.4829253,"925 2nd Street Southeast, Charlottesville",1,"restaurant, point_of_interest, food, establishment",1036
+Wooden Sun,4.4,38.0184558,-78.4866472,"1524 Rosa Terrace, Charlottesville",N/A,"home_goods_store, store, restaurant, point_of_interest, food, establishment",41
+The Melting Pot,4.5,38.0291894,-78.4786201,"Historic Downtown Mall Area, 501 East Water Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",685
+Domino's Pizza,4.3,38.03142339999999,-78.46459779999999,"508 Stewart Street, Charlottesville",1,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",242
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, point_of_interest, store, food, establishment",3245
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, point_of_interest, store, food, establishment",1199
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",759
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, point_of_interest, food, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, point_of_interest, food, establishment",603
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, point_of_interest, store, food, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, point_of_interest, food, establishment",368
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, point_of_interest, food, establishment",127
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, point_of_interest, store, food, establishment",607
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, point_of_interest, food, establishment",1081
+Cactus Mexican Restaurant,4.2,38.0229822,-78.47019399999999,"221 Carlton Road, Charlottesville",2,"restaurant, point_of_interest, food, establishment",298
+FIREFLY Restaurant + Game Room,4.4,38.0259711,-78.4672162,"1304 East Market Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",842
+Southern Crescent Galley and Bar,4.3,38.0246928,-78.4759035,"814 Hinton Avenue, Charlottesville",2,"restaurant, point_of_interest, food, establishment",150
+Lazy Parrot Backyard BBQ,3.7,38.0315777,-78.4560087,"594 South Pantops Drive, Charlottesville",2,"restaurant, point_of_interest, food, establishment",482
+Lampo Neapolitan Pizzeria,4.7,38.02737069999999,-78.4768594,"205 Monticello Road, Charlottesville",2,"restaurant, point_of_interest, food, establishment",856
+Domino's Pizza,4.3,38.03142339999999,-78.46459779999999,"508 Stewart Street, Charlottesville",1,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",242
+Monticello Café,4,38.00572029999999,-78.4518507,"1050 Monticello Loop, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",380
+Broadcloth,4.8,38.0198172,-78.45564739999999,"1837 Broadway Street, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",93
+Canelo's Burritos,N/A,38.0216998,-78.4701927,"308B Carlton Road, Charlottesville",N/A,"restaurant, point_of_interest, food, establishment",N/A
+Holly's Diner,4.6,38.02667739999999,-78.46761649999999,"1221 East Market Street, Charlottesville",1,"restaurant, point_of_interest, food, establishment",370
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Guadalajara Mexican Restaurant,4.1,38.025707,-78.51575299999999,"2206 Fontaine Avenue Extension, Charlottesville",2,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",555
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Dinsmore Inn at The University,4.6,38.0332771,-78.4972245,"1211 West Main Street, Charlottesville",N/A,"cafe, lodging, restaurant, food, point_of_interest, establishment",90
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Blue Moon Diner,4.5,38.0308887,-78.4883571,"606 West Main Street, Charlottesville",1,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",474
+Maya,4.6,38.03153369999999,-78.4895533,"633 West Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",668
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Asian Express,3.6,38.0326877,-78.49427039999999,"909 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",266
+Lemongrass,4.2,38.0345766,-78.4992084,"104 14th Street Northwest #6, Charlottesville",2,"restaurant, food, point_of_interest, establishment",288
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, store, food, point_of_interest, establishment",3245
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, store, restaurant, food, point_of_interest, establishment",2298
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, food, point_of_interest, store, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, store, food, point_of_interest, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, food, point_of_interest, store, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, food, point_of_interest, establishment",371
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Twisted Branch Tea Bazaar,4.6,38.0296779,-78.47900299999999,"414 East Main Street, Charlottesville",2,"cafe, restaurant, food, point_of_interest, establishment",354
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, restaurant, food, point_of_interest, store, establishment",607
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+Tastings of Charlottesville,4.5,38.0304029,-78.4780814,"502 East Market Street, Charlottesville",N/A,"liquor_store, bar, restaurant, food, point_of_interest, store, establishment",44
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, store, food, point_of_interest, establishment",3245
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Tavola,4.6,38.0245413,-78.47537489999999,"826 Hinton Avenue, Charlottesville",3,"liquor_store, bar, store, restaurant, food, point_of_interest, establishment",607
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, food, point_of_interest, establishment",200
+Starbucks,4,38.02899389999999,-78.4438863,"2040 Abbey Road, Charlottesville",2,"cafe, store, restaurant, food, point_of_interest, establishment",817
+Twisted Branch Tea Bazaar,4.6,38.0296779,-78.47900299999999,"414 East Main Street, Charlottesville",2,"cafe, restaurant, food, point_of_interest, establishment",354
+Tip Top Restaurant,4.5,38.03259219999999,-78.4468538,"1420 Richmond Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",2638
+Tastings of Charlottesville,4.5,38.0304029,-78.4780814,"502 East Market Street, Charlottesville",N/A,"liquor_store, bar, store, restaurant, food, point_of_interest, establishment",44
+Applebee's Grill + Bar,3.7,38.0311317,-78.4459198,"2005 Abbey Road, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1328
+Moose's By The Creek,4.7,38.0138711,-78.4736381,"1710 Monticello Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1081
+Lazy Parrot Backyard BBQ,3.7,38.0315777,-78.4560087,"594 South Pantops Drive, Charlottesville",2,"restaurant, food, point_of_interest, establishment",482
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Guadalajara Mexican Restaurant,4.1,38.025707,-78.51575299999999,"2206 Fontaine Avenue Extension, Charlottesville",2,"bar, meal_takeaway, restaurant, food, point_of_interest, establishment",555
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+Dinsmore Inn at The University,4.6,38.0332771,-78.4972245,"1211 West Main Street, Charlottesville",N/A,"cafe, lodging, restaurant, food, point_of_interest, establishment",90
+The Virginian,4.2,38.0353206,-78.50067299999999,"1521 University Avenue, Charlottesville",2,"restaurant, food, point_of_interest, establishment",753
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, food, point_of_interest, establishment",371
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, store, restaurant, food, point_of_interest, establishment",2298
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, store, restaurant, food, point_of_interest, establishment",2298
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, point_of_interest, food, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",611
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, liquor_store, tourist_attraction, bar, store, point_of_interest, food, establishment",3245
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, point_of_interest, food, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, point_of_interest, food, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, point_of_interest, food, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, point_of_interest, food, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",535
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",2487
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, point_of_interest, food, establishment",108
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1556
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, store, restaurant, point_of_interest, food, establishment",2298
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, point_of_interest, food, establishment",1015
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, point_of_interest, food, establishment",127
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, store, food, point_of_interest, establishment",3245
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, store, food, point_of_interest, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, food, point_of_interest, establishment",200
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Michie Tavern ca. 1784,4.6,38.0087286,-78.46370309999999,"683 Thomas Jefferson Parkway, Charlottesville",2,"restaurant, tourist_attraction, liquor_store, bar, store, food, point_of_interest, establishment",3245
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, store, food, point_of_interest, establishment",126
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, food, point_of_interest, establishment",200
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Tip Top Restaurant,4.5,38.03259219999999,-78.4468538,"1420 Richmond Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",2638
+Starbucks,4,38.02899389999999,-78.4438863,"2040 Abbey Road, Charlottesville",2,"cafe, restaurant, store, food, point_of_interest, establishment",817
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Twisted Branch Tea Bazaar,4.6,38.0296779,-78.47900299999999,"414 East Main Street, Charlottesville",2,"cafe, restaurant, food, point_of_interest, establishment",354
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",611
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",286
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",321
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1286
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, point_of_interest, food, establishment",934
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, point_of_interest, food, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, point_of_interest, store, food, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",535
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",759
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",594
+Guadalajara Mexican Restaurant,4.1,38.025707,-78.51575299999999,"2206 Fontaine Avenue Extension, Charlottesville",2,"bar, meal_takeaway, restaurant, point_of_interest, food, establishment",555
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",676
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, point_of_interest, food, establishment",1015
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, point_of_interest, food, establishment",776
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, point_of_interest, food, establishment",657
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",449
+The Virginian,4.2,38.0353206,-78.50067299999999,"1521 University Avenue, Charlottesville",2,"restaurant, point_of_interest, food, establishment",753
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+The Virginian,4.2,38.0353206,-78.50067299999999,"1521 University Avenue, Charlottesville",2,"restaurant, food, point_of_interest, establishment",753
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, store, point_of_interest, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, store, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, store, point_of_interest, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, food, point_of_interest, establishment",200
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_takeaway, bar, meal_delivery, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, store, food, point_of_interest, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, food, point_of_interest, establishment",200
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, store, food, point_of_interest, establishment",2298
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, point_of_interest, food, establishment",1199
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, point_of_interest, food, establishment",371
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, point_of_interest, food, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, point_of_interest, food, establishment",368
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",286
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, point_of_interest, food, establishment",934
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",540
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",2487
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, point_of_interest, food, establishment",200
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",535
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, point_of_interest, food, establishment",127
+Tip Top Restaurant,4.5,38.03259219999999,-78.4468538,"1420 Richmond Road, Charlottesville",1,"restaurant, point_of_interest, food, establishment",2638
+Starbucks,4,38.02899389999999,-78.4438863,"2040 Abbey Road, Charlottesville",2,"cafe, store, restaurant, point_of_interest, food, establishment",817
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, point_of_interest, food, establishment",657
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1556
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",449
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, store, food, point_of_interest, establishment",2298
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Chipotle Mexican Grill,2.9,38.0491631,-78.5036763,"953 Emmet Street North, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1029
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+The Virginian,4.2,38.0353206,-78.50067299999999,"1521 University Avenue, Charlottesville",2,"restaurant, food, point_of_interest, establishment",753
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Dinsmore Inn at The University,4.6,38.0332771,-78.4972245,"1211 West Main Street, Charlottesville",N/A,"cafe, lodging, restaurant, food, point_of_interest, establishment",90
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+C'Ville Coffee,4.5,38.04104839999999,-78.4776157,"1301 Harris Street, Charlottesville",1,"cafe, meal_takeaway, restaurant, food, point_of_interest, store, establishment",496
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",611
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",286
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",321
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",676
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, point_of_interest, food, establishment",603
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, point_of_interest, food, establishment",934
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1286
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, point_of_interest, food, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, point_of_interest, store, food, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",2487
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, point_of_interest, store, food, establishment",1199
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, point_of_interest, food, establishment",1015
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, point_of_interest, food, establishment",371
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, point_of_interest, food, establishment",776
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, point_of_interest, food, establishment",657
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, store, restaurant, food, point_of_interest, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, food, point_of_interest, establishment",200
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, store, restaurant, food, point_of_interest, establishment",2298
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, food, point_of_interest, establishment",200
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, food, point_of_interest, store, establishment",1199
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, bar, meal_takeaway, restaurant, food, point_of_interest, establishment",371
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",126
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, food, point_of_interest, establishment",200
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",759
+Beer Run,4.5,38.02458719999999,-78.4685083,"156 Carlton Road Ste 203, Charlottesville",2,"restaurant, liquor_store, bar, store, food, point_of_interest, establishment",1199
+Belmont Pizza & Pub,4.3,38.0240274,-78.4690459,"10, 5975, 221 Carlton Road, Charlottesville",1,"meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",371
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Mas,4.4,38.0242534,-78.4742108,"904 Monticello Road, Charlottesville",3,"restaurant, food, point_of_interest, establishment",603
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+La Guadalupana Latino Market,4.2,38.0230518,-78.47049030000001,"221 Carlton Road #15, Charlottesville",N/A,"grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",126
+The Red Lantern,3.9,38.02318449999999,-78.4703777,"221 Carlton Road #16, Charlottesville",1,"restaurant, food, point_of_interest, establishment",368
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+Papa Johns Pizza,3.7,38.0364351,-78.4620989,"1305 Long Street Suite A, Charlottesville",1,"restaurant, food, point_of_interest, establishment",200
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+Pad Thai,4.4,38.0246433,-78.4684802,"156 Carlton Road #202, Charlottesville",2,"restaurant, food, point_of_interest, establishment",127
+Tip Top Restaurant,4.5,38.03259219999999,-78.4468538,"1420 Richmond Road, Charlottesville",1,"restaurant, food, point_of_interest, establishment",2638
+Starbucks,4,38.02899389999999,-78.4438863,"2040 Abbey Road, Charlottesville",2,"cafe, store, restaurant, food, point_of_interest, establishment",817
+C'Ville Coffee,4.5,38.04104839999999,-78.4776157,"1301 Harris Street, Charlottesville",1,"cafe, meal_takeaway, store, restaurant, food, point_of_interest, establishment",496
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",540
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",321
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",286
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1286
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, point_of_interest, store, food, establishment",2298
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, point_of_interest, food, establishment",108
+Chipotle Mexican Grill,2.9,38.0491631,-78.5036763,"953 Emmet Street North, Charlottesville",1,"restaurant, point_of_interest, food, establishment",1029
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1556
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",535
+Sedona Taphouse,4.4,38.05108860000001,-78.5056927,"1035 Millmont Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",1854
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",594
+The Ivy Inn Restaurant,4.8,38.045929,-78.51621519999999,"2244 Old Ivy Road, Charlottesville",3,"restaurant, point_of_interest, food, establishment",645
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",2487
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, point_of_interest, food, establishment",934
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",611
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, point_of_interest, food, establishment",1015
+Peter Chang China Grill,4.1,38.05523109999999,-78.5005444,"2162 Barracks Road, Charlottesville",2,"restaurant, point_of_interest, food, establishment",583
+The Virginian,4.2,38.0353206,-78.50067299999999,"1521 University Avenue, Charlottesville",2,"restaurant, point_of_interest, food, establishment",753
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, point_of_interest, food, establishment",776
+Dinsmore Inn at The University,4.6,38.0332771,-78.4972245,"1211 West Main Street, Charlottesville",N/A,"cafe, lodging, restaurant, point_of_interest, food, establishment",90
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",611
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",286
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",321
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1286
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, food, point_of_interest, establishment",934
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, food, point_of_interest, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, restaurant, food, point_of_interest, store, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, food, point_of_interest, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",1556
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, food, point_of_interest, establishment",676
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",2487
+Chipotle Mexican Grill,2.9,38.0491631,-78.5036763,"953 Emmet Street North, Charlottesville",1,"restaurant, food, point_of_interest, establishment",1029
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, food, point_of_interest, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, food, point_of_interest, establishment",1015
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, food, point_of_interest, establishment",776
+C'Ville Coffee,4.5,38.04104839999999,-78.4776157,"1301 Harris Street, Charlottesville",1,"cafe, meal_takeaway, restaurant, food, point_of_interest, store, establishment",496
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, food, point_of_interest, establishment",657
+Sedona Taphouse,4.4,38.05108860000001,-78.5056927,"1035 Millmont Street, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",1854
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, food, point_of_interest, establishment",449
+South Street Brewery,4.4,38.029338,-78.482687,"106 South Street West, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",540
+C & O,4.7,38.02906180000001,-78.4782802,"515 East Water Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",611
+Ten,4.4,38.03045649999999,-78.4810104,"120 East Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",286
+Continental Divide,4.5,38.0319244,-78.49109969999999,"811 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",321
+Guadalajara,4.4,38.02992,-78.4754603,"805 East Market Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",676
+The Nook,4.2,38.030083,-78.478776,"415 East Main Street, Charlottesville",1,"bar, restaurant, point_of_interest, food, establishment",934
+Mellow Mushroom Charlottesville,4.5,38.0337158,-78.4986122,"1321 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1286
+The Local,4.4,38.0245847,-78.4754777,"824 Hinton Avenue, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",759
+Subway,4,38.032418,-78.48523800000001,"251 Ridge McIntire Road, Charlottesville",1,"meal_takeaway, restaurant, point_of_interest, food, establishment",108
+Bodo's Bagels,4.8,38.0351412,-78.4849943,"505 Preston Avenue, Charlottesville",1,"bakery, store, restaurant, point_of_interest, food, establishment",2298
+Hamiltons' at First & Main,4.4,38.03090350000001,-78.48155659999999,"101 West Main Street, Charlottesville",3,"restaurant, point_of_interest, food, establishment",535
+The Whiskey Jar,4.4,38.0314122,-78.4827571,"227 West Main Street, Charlottesville",2,"restaurant, point_of_interest, food, establishment",1556
+Citizen Burger Bar,4.3,38.03019080000001,-78.4804429,"212 East Main Street, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",2487
+Orzo Kitchen & Wine Bar,4.5,38.0305847,-78.48712239999999,"416 West Main Street, Charlottesville",3,"bar, restaurant, point_of_interest, food, establishment",594
+Miller's Downtown,4.3,38.030985,-78.481796,"109 West Main Street, Charlottesville",2,"restaurant, bar, point_of_interest, food, establishment",1015
+Christian's Pizza,4.5,38.03086799999999,-78.482198,"118 West Main Street, Charlottesville",1,"restaurant, point_of_interest, food, establishment",776
+Rapture Restaurant,3.8,38.0303845,-78.47976779999999,"303 East Main Street, Charlottesville",2,"restaurant, night_club, bar, point_of_interest, food, establishment",657
+C'Ville Coffee,4.5,38.04104839999999,-78.4776157,"1301 Harris Street, Charlottesville",1,"cafe, meal_takeaway, store, restaurant, point_of_interest, food, establishment",496
+Zocalo,4.4,38.0307918,-78.4803003,"201 East Main Street Unit E, Charlottesville",2,"bar, restaurant, point_of_interest, food, establishment",449
+The Virginian,4.2,38.0353206,-78.50067299999999,"1521 University Avenue, Charlottesville",2,"restaurant, point_of_interest, food, establishment",753
