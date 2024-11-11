@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Results for "{{ restaurant_name }}"</h1>
+
+    {% if restaurants %}
+        <ul>
+            {% for restaurant in restaurants %}
+                <li>{{ restaurant }} </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No restaurants found near the specified location.</p>
+    {% endif %}
+    
+    <a href="{{ url_for('index') }}">Back to Search</a>
+</body>
+</html>
