@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, jsonify
 from restaurant_data.restaurant_data import get_restaurants
 import requests
 import json
+import sqlite3
 
 app = Flask(__name__)
 
@@ -53,6 +54,14 @@ def get_restaurants_api():
             return jsonify({'error': 'No restaurants found'})
     else:
         return jsonify({'error': 'Missing latitude and longitude'})
-    
+
+
+@app.route('/submit', methods=['POST'])
+def submit():
+    restaurant_name = request.form['restaurant']
+    # Process the restaurant name, e.g., store it in a database
+    # ...
+    return f"Received: {restaurant_name}"
+
 if __name__ == '__main__':
     app.run(debug=True)
