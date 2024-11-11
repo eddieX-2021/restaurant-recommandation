@@ -56,6 +56,7 @@ The Restaurant Recommender is a web application built using Flask that allows us
 3. Input your recently visited restaurants and other details, then click "Get Restaurants" to receive recommendations.
 
 ![Input](C:/Users/eddie/Documents/Machine Learning/restaurant_recommendation_project/input.png)
+
 ![Output](C:/Users/eddie/Documents/Machine Learning/restaurant_recommendation_project/output.png)
 
 
