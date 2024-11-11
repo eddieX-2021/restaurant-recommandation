@@ -3,20 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <title>Search Results</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-    <h1>Results for "{{ restaurant_name }}"</h1>
+    <div class="container mt-5">
+        <h1 class="text-center">Results for "{{ restaurant_name }}"</h1>
 
-    {% if restaurants %}
-        <ul>
-            {% for restaurant in restaurants %}
-                <li>{{ restaurant }} </li>
-            {% endfor %}
-        </ul>
-    {% else %}
-        <p>No restaurants found near the specified location.</p>
-    {% endif %}
-    
-    <a href="{{ url_for('index') }}">Back to Search</a>
+        {% if restaurants %}
+            <ul class="list-group mt-4">
+                {% for restaurant in restaurants %}
+                    <li class="list-group-item">{{ restaurant }} </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p class="mt-4">No restaurants found near the specified location.</p>
+        {% endif %}
+        
+        <a href="{{ url_for('index') }}" class="btn btn-secondary mt-3">Back to Search</a>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
