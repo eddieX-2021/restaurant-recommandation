@@ -60,8 +60,6 @@ The Restaurant Recommender is a web application built using Flask that allows us
 ![Output](output.png)
 
 
-
-
 ## Dataset
 The application uses a CSV file (`c.csv`) containing restaurant data, including:
 - Name
@@ -69,6 +67,20 @@ The application uses a CSV file (`c.csv`) containing restaurant data, including:
 - Price Level
 - User Ratings Total
 - Various features (e.g., bakery, bar, cafe, etc.)
+
+## Future Improvements
+
+- **Location-based Recommendations**:  
+  Currently, the application works only for the Charlottesville area. In the future, we plan to enable users to select their location (city or coordinates) for more personalized recommendations, making it applicable to a wider range of users.
+  
+- **Enhanced Results Page**:  
+  The recommendation page will be upgraded to include additional details like restaurant images, detailed reviews, and updated ratings. This will provide users with a more informative and visually appealing experience.
+
+- **Interactive Map Integration**:  
+  To further enhance user experience, we aim to integrate a map feature that allows users to see the locations of recommended restaurants, making it easier for them to plan their visits.
+
+- **Better Search Functionality**:  
+  The search functionality will be refined to support fuzzy matching for restaurant names and features, allowing for more accurate results even if the user misspells or partially enters restaurant names.
 
 
 ## Acknowledgments
