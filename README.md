@@ -67,6 +67,7 @@ The application uses a CSV file (`c.csv`) containing restaurant data, including:
 - Price Level
 - User Ratings Total
 - Various features (e.g., bakery, bar, cafe, etc.)
+This dataset has been derived and cleaned from data originally calculated using latitude and longitude coordinates obtained from the Google Places API.
 
 ## Future Improvements
 
